@@ -25,7 +25,7 @@ This will create the main figure with the segmentation guidelines:
 
 ![Figure1](/assets/Figure1.png)
 
-Call the `segment()` method and adjust the sliders until the guidelines are positioned correctly. The right ventricle should be positioned in the area defined by the red and blue lines marked with a circle and a square, respectively.
+Call the `segment()` method and adjust the sliders until the guidelines are positioned correctly. The right ventricle should be positioned in the area defined by the rlines marked with a circle and a square.
 
     Segmentation_class.segment()
 
